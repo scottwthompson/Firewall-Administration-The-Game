@@ -4,4 +4,6 @@ A flash game for firewall administration, specifically learning about iptables c
 
 To play the game, embed and upload the swf file, or visit: https://sites.google.com/site/firewallgameinf/
 
-See the pef report for further details
+See the pdf paper for further details
+
+Scott Thompson - UG4 Hon Proj
